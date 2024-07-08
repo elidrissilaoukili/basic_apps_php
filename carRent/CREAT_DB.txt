@@ -1,0 +1,16 @@
+PDO
+new PDO("mysql:host=localhost;dbname=car_rental", "root", "");
+
+DBHOST = localhost
+DBNAME = car_rental
+DBUSER = "root"
+DBPASS =  ""
+
+
+MYSQL
+mysqli_connect('localhost', 'root', '', 'car_rental')
+
+DBHOST = localhost
+DBNAME = car_rental
+DBUSER = "root"
+DBPASS =  ""
